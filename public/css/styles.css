@@ -1,0 +1,58 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #333333;
+    background-color: white;
+    max-width: 50vw;
+    margin: 0 auto;
+    padding: 0 15px;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main-wrapper {
+    flex-grow: 1;
+}
+
+footer {
+    color: #888888;
+    border-top: 1px solid #eeeeee;
+    margin-top: 15px;
+    padding: 15px 0;
+}
+
+header {
+    margin-top: 16px;
+    margin-bottom: 48px;
+
+   
+}
+
+header a {
+    color: #888888;
+    margin-right: 16px;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 16px;
+}
+
+h4 {
+    font-size: 16px;
+}
+
+input {
+    border: 1px solid #cccccc;
+    padding: 8px;
+}
+
+button {
+    cursor: pointer;
+    border: 1px solid #1b8ce9;
+    background: #1b8ce9;  
+    color: rgb(255, 255, 255);
+    padding: 8px;
+}
