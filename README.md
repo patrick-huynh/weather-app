@@ -2,9 +2,9 @@
 
 This application was made using NodeJS in conjunction with the Weathersky API and the Mapbox API.
 
-## Live Demo
+[comment]: # (## Live Demo)
 
-A live demo of the application can be found [https://weather-app-phuynh.herokuapp.com](https://weather-app-phuynh.herokuapp.com) or by following the link:
+[comment]: # (A live demo of the application can be found [https://weather-app-phuynh.herokuapp.com](https://weather-app-phuynh.herokuapp.com) or by following the link:)
 
 ## Developmental Workflow
 Installation of the Heroku CLI is required.
